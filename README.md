@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=43nhZNbs4yk&list=PLlqOXLg-GOqeJWNURJtQKBWW6IQJKu9Ly
+
+
 
 # Vagrantfile and Scripts to Automate Kubernetes Setup using Kubeadm 
 
